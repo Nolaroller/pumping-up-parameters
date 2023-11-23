@@ -10,7 +10,9 @@ letname =" Dinah"
 
 letgreeting = "HEY"
 
-functionmultipy()
+functionmultipy(){
+  console.log()
+}
   
   
   functionmodYBy()
